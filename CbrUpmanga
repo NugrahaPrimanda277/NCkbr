@@ -1,0 +1,17 @@
+{
+  "title": "Otaku Elf",
+  "description": "no description",
+  "artist": "Akihiko Higuchi",
+  "author": "Akihiko Higuchi",
+  "cover": "https://i.imgur.com/jw9pT1M.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/B926c49/"
+      },
+      "last_updated": "1634139750"
+    },
+  }
+}
